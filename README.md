@@ -11,3 +11,4 @@
 | 项目名称 | github地址 | 基础大模型 | 训练方法 | 备注 |
 | ---- | ----- | ------ | ---- | ---- |
 | Alpaca | https://github.com/tatsu-lab/stanford_alpaca| LLaMA | Alpaca | 大家熟知的羊驼，入门推荐
+| Alpaca | https://github.com/Facico/Chinese-Vicuna| LLaMA | Vicuna | 一个中文低资源的llama+lora方案
