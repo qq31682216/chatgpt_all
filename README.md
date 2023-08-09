@@ -3,16 +3,16 @@
 ## 介绍
 一个all_in_one合集，包含大模型微调、部署、langchain开发，方便大家使用
 初步设想几个部分：
-- [x]langchain例子：
+- [x] langchain例子：
     - [x] 简单的QA智能客服
     - [ ] 简单的text2SQL
-- [ ]统一api
-    - [ ]chatglm-6b
-    - [ ]chatglm2-6b
-- [ ]统一微调
-    - [ ]LLaMa2
-    - [ ]chatglm-6b
-    - [ ]chatglm2-6b
+- [ ] 统一api
+    - [ ] chatglm-6b
+    - [ ] chatglm2-6b
+- [ ] 统一微调
+    - [ ] LLaMa2
+    - [ ] chatglm-6b
+    - [ ] chatglm2-6b
 
 ## 说明
 欢迎大家关注，后续持续更新，做方便你用的工具
