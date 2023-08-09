@@ -4,7 +4,7 @@
 一个all_in_one合集，包含大模型微调、部署、langchain开发，方便大家使用
 初步设想几个部分：
 - [x] langchain例子：
-    - [x] [简单的QA智能客服](https://github.com/qq31682216/chatgpt_all/tree/main/Simple)
+    - [x] [简单的QA智能客服](/Simple%20QA%20customer%20service)
     - [ ] 简单的text2SQL
 - [ ] 统一api
     - [ ] chatglm-6b
