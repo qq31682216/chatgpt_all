@@ -31,4 +31,4 @@
 | Alpaca | https://github.com/Facico/Chinese-Vicuna| LLaMA | Vicuna | 一个中文低资源的llama+lora方案
 
 ## 加微信交流群，备注: 公司/学校-方向
-<img src="img/wx.jpg" alt="二维码" width="300" height="300" />
+<img src="img/zhou759405.jpg" alt="微信号:zhou759405" width="300" height="300" />
