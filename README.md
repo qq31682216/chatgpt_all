@@ -6,6 +6,7 @@
 - [x] langchain例子：
     - [x] [简单的QA智能客服](/Simple_QA_customer_service)
     - [x] [简单的聊天机器人](/Simple_chatbot)
+    - [x] [简单的Agent实现](/Simple_Agent)
     - [ ] 简单的text2SQL
 - [ ] 统一api
     - [ ] chatglm-6b
