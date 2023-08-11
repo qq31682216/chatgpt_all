@@ -5,7 +5,7 @@
 初步设想几个部分：
 - [x] langchain例子：
     - [x] [简单的QA智能客服](/Simple%20QA%20customer%20service)
-    - [ ] 简单的聊天机器人
+    - [ ] [简单的聊天机器人](/Simple_chatbot)
     - [ ] 简单的text2SQL
 - [ ] 统一api
     - [ ] chatglm-6b
