@@ -11,8 +11,11 @@
 - [ ] 统一api
     - [ ] chatglm-6b
     - [ ] chatglm2-6b
+    - [ ] Baichuan
+    - [ ] LLaMa2
 - [ ] 统一微调
     - [ ] LLaMa2
+    - [ ] Baichuan
     - [ ] chatglm-6b
     - [ ] chatglm2-6b
 
