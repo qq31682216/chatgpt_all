@@ -8,16 +8,14 @@
     - [x] [简单的聊天机器人](/Simple_chatbot)
     - [x] [简单的Agent实现](/Simple_Agent)
     - [ ] 简单的text2SQL
-- [ ] 统一api
-    - [ ] chatglm-6b
-    - [ ] chatglm2-6b
-    - [ ] Baichuan
-    - [ ] LLaMa2
 - [ ] 统一微调
     - [ ] LLaMa2
     - [ ] Baichuan
-    - [ ] chatglm-6b
     - [ ] chatglm2-6b
+- [ ] 统一api
+    - [ ] chatglm2-6b
+    - [ ] Baichuan
+    - [ ] LLaMa2
 
 ## 说明
 欢迎大家关注，后续持续更新，做方便你用的工具
