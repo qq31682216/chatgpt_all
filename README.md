@@ -16,6 +16,9 @@
     - [ ] chatglm2-6b
     - [ ] Baichuan
     - [ ] LLaMa2
+- [x] 讲课demo快速入口，按时间排序
+    - [x] [用友demo](/yongyou_demo)
+    - [x] [华为demo](/huawei_demo)
 
 ## 说明
 欢迎大家关注，后续持续更新，做方便你用的工具
