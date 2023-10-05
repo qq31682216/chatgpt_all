@@ -8,7 +8,7 @@
     - [x] [简单的聊天机器人](/Simple_chatbot)
     - [x] [简单的Agent实现](/Simple_Agent)
     - [x] [简单的text2SQL](/text2SQL)
-- [x] 统一微调
+- [x] [统一微调](/yongyou_demo/train_qlora.py)
     - [x] [LLaMa2](/yongyou_demo/llama2-qlora.json)
     - [x] [Baichuan](/yongyou_demo/baichuan-13b-qlora.json)
     - [x] [chatglm2-6b](/yongyou_demo/yongyou_demo/chatglm2-6b-qlora.json)
